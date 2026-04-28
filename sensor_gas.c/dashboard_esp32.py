@@ -9,7 +9,7 @@ from dash import Dash, dcc, html, dash_table, Input, Output
 import plotly.express as px
 
 # IP real do ESP32
-ESP32_IP = "192.168.1.6"
+ESP32_IP = "DIGITE_SEU_IP"
 ESP32_URL = f"http://{ESP32_IP}/data"
 
 CSV_FILE = "leituras_esp32_refinado.csv"
