@@ -3,10 +3,10 @@
 
 #define SENSOR_GAS 34
 
-const char* ssid = "DANIELECAMILA";
-const char* password = "@Satoshi12";
+const char* ssid = "NOME-WIFI";
+const char* password = "SENHA-WIFI";
 
-const char* serverUrl = "http://192.168.1.4:3000/api/sensor";
+const char* serverUrl = "http://SEU-IP:3000/api/sensor";
 
 int limiteGas = 1500;
 
