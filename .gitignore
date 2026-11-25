@@ -14,3 +14,6 @@ Thumbs.db
 
 secrets.h
 wifi_config.h
+node_modules/
+*.env
+__pycache__/
